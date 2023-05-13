@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/button_3"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:text="撤回" />
+    <Button
+        android:id="@+id/button_5"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:text="功能1" />
+    <Button
+        android:id="@+id/button_4"
+        android:layout_width="98dp"
+        android:layout_height="wrap_content"
+        android:text="保存" />
+    <ImageView
+        android:id="@+id/picture"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>
+
+
